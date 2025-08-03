@@ -24,8 +24,6 @@ This project showcases my skills, background, and vision for a tech-driven futur
 - **HTML5** – Structure and semantic markup  
 - **CSS3** – Styling and responsive layout  
 - **GitHub** – Version control and deployment
--**javaScript** - Main language
-
 ---
 
 ## 📂 File Structure
@@ -45,3 +43,4 @@ A simple, clean portfolio design with a natural, eco-friendly theme inspired by 
 ---
 
 💚 Designed and developed with passion for **tech + growth**.
+
